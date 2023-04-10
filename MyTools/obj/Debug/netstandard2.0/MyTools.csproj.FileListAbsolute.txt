@@ -1,0 +1,10 @@
+D:\work\The Game\MyTools\bin\Debug\netstandard2.0\MyTools.deps.json
+D:\work\The Game\MyTools\bin\Debug\netstandard2.0\MyTools.dll
+D:\work\The Game\MyTools\bin\Debug\netstandard2.0\MyTools.pdb
+D:\work\The Game\MyTools\obj\Debug\netstandard2.0\MyTools.csproj.AssemblyReference.cache
+D:\work\The Game\MyTools\obj\Debug\netstandard2.0\MyTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\The Game\MyTools\obj\Debug\netstandard2.0\MyTools.AssemblyInfoInputs.cache
+D:\work\The Game\MyTools\obj\Debug\netstandard2.0\MyTools.AssemblyInfo.cs
+D:\work\The Game\MyTools\obj\Debug\netstandard2.0\MyTools.csproj.CoreCompileInputs.cache
+D:\work\The Game\MyTools\obj\Debug\netstandard2.0\MyTools.dll
+D:\work\The Game\MyTools\obj\Debug\netstandard2.0\MyTools.pdb

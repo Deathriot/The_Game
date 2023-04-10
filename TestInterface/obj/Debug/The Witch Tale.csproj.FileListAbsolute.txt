@@ -1,0 +1,11 @@
+D:\work\The Game\TestInterface\bin\Debug\The_Witch_Tale.exe.config
+D:\work\The Game\TestInterface\bin\Debug\The_Witch_Tale.exe
+D:\work\The Game\TestInterface\bin\Debug\The_Witch_Tale.pdb
+D:\work\The Game\TestInterface\bin\Debug\MyTools.dll
+D:\work\The Game\TestInterface\bin\Debug\MyTools.pdb
+D:\work\The Game\TestInterface\obj\Debug\The Witch Tale.csproj.AssemblyReference.cache
+D:\work\The Game\TestInterface\obj\Debug\The Witch Tale.csproj.SuggestedBindingRedirects.cache
+D:\work\The Game\TestInterface\obj\Debug\The Witch Tale.csproj.CoreCompileInputs.cache
+D:\work\The Game\TestInterface\obj\Debug\The Witch Tale.csproj.CopyComplete
+D:\work\The Game\TestInterface\obj\Debug\The_Witch_Tale.exe
+D:\work\The Game\TestInterface\obj\Debug\The_Witch_Tale.pdb

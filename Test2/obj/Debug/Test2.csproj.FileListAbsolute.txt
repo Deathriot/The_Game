@@ -1,0 +1,11 @@
+D:\work\The Game\Test2\bin\Debug\Test2.exe.config
+D:\work\The Game\Test2\bin\Debug\Test2.exe
+D:\work\The Game\Test2\bin\Debug\Test2.pdb
+D:\work\The Game\Test2\obj\Debug\Test2.csproj.AssemblyReference.cache
+D:\work\The Game\Test2\obj\Debug\Test2.csproj.SuggestedBindingRedirects.cache
+D:\work\The Game\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+D:\work\The Game\Test2\obj\Debug\Test2.exe
+D:\work\The Game\Test2\obj\Debug\Test2.pdb
+D:\work\The Game\Test2\bin\Debug\MyTools.dll
+D:\work\The Game\Test2\bin\Debug\MyTools.pdb
+D:\work\The Game\Test2\obj\Debug\Test2.csproj.CopyComplete

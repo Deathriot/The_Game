@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UPPmrbRw12JnaQ0xwE2MiLmGYRdGMvFW6t5ktgM1SlbmDevfbGnTBrjCrdcI22chJ1uMx76QrlppD1ym3SMQVg==",
+  "success": true,
+  "projectFilePath": "D:\\work\\The Game\\MyTools\\MyTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sbz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sbz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

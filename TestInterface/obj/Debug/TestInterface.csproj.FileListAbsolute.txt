@@ -1,0 +1,8 @@
+D:\work\The Game\TestInterface\bin\Debug\TestInterface.exe.config
+D:\work\The Game\TestInterface\bin\Debug\TestInterface.exe
+D:\work\The Game\TestInterface\bin\Debug\TestInterface.pdb
+D:\work\The Game\TestInterface\obj\Debug\TestInterface.csproj.AssemblyReference.cache
+D:\work\The Game\TestInterface\obj\Debug\TestInterface.csproj.SuggestedBindingRedirects.cache
+D:\work\The Game\TestInterface\obj\Debug\TestInterface.csproj.CoreCompileInputs.cache
+D:\work\The Game\TestInterface\obj\Debug\TestInterface.exe
+D:\work\The Game\TestInterface\obj\Debug\TestInterface.pdb
